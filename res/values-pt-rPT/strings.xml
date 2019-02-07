@@ -143,6 +143,8 @@
     <string name="live_display_color_profile_srgb_summary">Cores precisas para o espaço de cor sRGB</string>
     <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
     <string name="live_display_color_profile_dci_p3_summary">Cores precisas para o espaço de cor DCI-P3</string>
+    <string name="live_display_color_profile_adobe_title">Adobe RGB</string>
+    <string name="live_display_color_profile_adobe_summary">Cores precisas para o espaço de cor Adobe RGB</string>
     <string name="live_display_reading_mode_title">Modo de leitura</string>
     <string name="live_display_reading_mode_summary">Modo em tons de cinzento para leituras por longos períodos</string>
     <string name="color_calibration_title">Calibração de cores</string>
@@ -231,7 +233,7 @@
     <string name="power_menu_title">Menu ligar/desligar</string>
     <string name="power_menu_screenshot_title">Capturar ecrã</string>
     <string name="power_menu_screenshot_summary">Pressão longa para captura de ecrã parcial</string>
-    <string name="power_menu_airplane_title">Modo de avião</string>
+    <string name="power_menu_airplane_title">Modo de voo</string>
     <string name="power_menu_users_title">Mudar utilizador</string>
     <string name="power_menu_bug_report_title">Relatório de erros</string>
     <string name="power_menu_bug_report_disabled">O relatório de erros está desativado nas opções de programador</string>
@@ -361,7 +363,7 @@
     <string name="profile_lockmode_policy_disabled_summary">Esta opção de perfil está desativada pela política do administrador do dispositivo</string>
     <string name="profile_lockmode_insecure_summary">Não pedir a palavra-passe nem PIN</string>
     <string name="profile_lockmode_disabled_summary">Desativar o ecrã de bloqueio</string>
-    <string name="profile_airplanemode_title">Modo de avião</string>
+    <string name="profile_airplanemode_title">Modo de voo</string>
     <string name="profile_brightness_title">Brilho do ecrã</string>
     <string name="profile_brightness_override_summary">Definido para %1$d%%</string>
     <string name="profile_brightness_override_checkbox_label">Substituir brilho</string>
@@ -372,8 +374,6 @@
     <string name="toggleGPS">GPS</string>
     <string name="toggleData">Ligação de dados</string>
     <string name="toggleSync">Sincronização automática de dados</string>
-    <string name="toggle2g3g4g">Tipo de rede preferida</string>
-    <string name="toggle2g3g4g_msim">Tipo de rede preferida (%1$s)</string>
     <string name="toggleNfc">NFC</string>
     <!-- Sound settings screen -->
     <string name="ring_mode_title">Modo de toque</string>
