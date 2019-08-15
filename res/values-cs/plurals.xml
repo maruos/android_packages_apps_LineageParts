@@ -17,11 +17,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="backlight_timeout_time">
-        <item quantity="one"><xliff:g id="seconds">%d</xliff:g> ಕ್ಷಣ</item>
-        <item quantity="other"><xliff:g id="seconds">%d</xliff:g> ಕ್ಷಣ</item>
+        <item quantity="one"><xliff:g id="seconds">%d</xliff:g> sekunda</item>
+        <item quantity="few"><xliff:g id="seconds">%d</xliff:g> sekundy</item>
+        <item quantity="many"><xliff:g id="seconds">%d</xliff:g> sekund</item>
+        <item quantity="other"><xliff:g id="seconds">%d</xliff:g> sekund</item>
     </plurals>
     <plurals name="app_ops_count">
-        <item quantity="one">ಒಮ್ಮೆ</item>
-        <item quantity="other">%d ಬಾರಿ</item>
+        <item quantity="one">jednou</item>
+        <item quantity="few">%d krát</item>
+        <item quantity="many">%d krát</item>
+        <item quantity="other">%d krát</item>
     </plurals>
 </resources>
